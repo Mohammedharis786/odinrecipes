@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    height: 160px;
+    
+    box-shadow: 10px 10px 10px rgb(45, 181, 226);
+    margin: auto;
+    margin-top: 30px;
+    background-color: aqua;
+    text-shadow: 2px 2px blue;
+}
+
+.container1{
+    display: flex;
+    width: 250px;
+    height: 160px;
+    background-color: rgb(203, 105, 7);
+    margin-top: 20px;
+    border: 15px solid rgb(173, 23, 23);
+    background-image: linear-gradient(rgb(225, 114, 9),yellow,red);
+    margin-right: 100px;
+
+}
+.container2{
+    display: flex;
+}
+.container3{
+   width: 250px;
+   height: 160px;
+   padding: 10px;
+   background: rgb(244, 110, 14);
+   margin-top:30px ;
+   margin-right: 40px;
+}
+.box{
+    width: 250px;
+    height: 160px;
+    background-color: rgb(230, 98, 11);
+    transition: 1s;
+      
+}
+.box:hover{
+    transform: scale(1.3);
+    background-color: rgb(224, 123, 6);
+    box-shadow: 10px 10px;
+}
