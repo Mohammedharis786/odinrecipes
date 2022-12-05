@@ -1,0 +1,28 @@
+table,th,td{
+    border: 2px solid black;
+    
+    padding: 7px;
+    padding-left: 6px;
+}
+td{
+    background-color: rgb(8, 10, 9);
+    text-align: center;
+    color: white;
+}
+th{
+    background-color: rgba(231, 112, 27, 0.538);
+}
+body{
+    background-color: rgb(147, 180, 180);
+}
+.container{
+    padding: 0 10%;
+    margin: 40px auto 0;
+}
+table{
+    width: 100%;
+}
+.tbd{
+    text-align: center;
+
+}
