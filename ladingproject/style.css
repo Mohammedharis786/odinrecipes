@@ -178,3 +178,11 @@
     color: rgb(224, 222, 222);
     padding-top: 45px;
 }
+
+
+@media screen and  (max-width: 992){
+  .flex-container{
+    margin: 3rem;
+  }
+}
+    

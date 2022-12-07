@@ -1,0 +1,18 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 70%;
+    height: 50%;
+    margin-left: 110px;
+}
+.jku{
+    text-align: justify;
+}
+button{
+    border-radius: 7px;
+    background-color:aquamarine
+}

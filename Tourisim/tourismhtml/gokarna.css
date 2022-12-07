@@ -1,0 +1,19 @@
+img{
+    height: 390px;
+    margin: auto;
+    margin-left: 130px;
+    border: 1px solid black;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: cadetblue;
+}
+.ha{
+    text-align: justify;
+}
+button{
+    background-color: aquamarine;
+    border-radius: 5px;
+}

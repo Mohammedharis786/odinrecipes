@@ -1,0 +1,16 @@
+img{
+   margin-left:120px;
+}
+body{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+}
+.hyt{
+  text-align: justify;
+}
+button{
+    background-color: aquamarine;
+    border-radius: 7px;
+}
